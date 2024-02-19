@@ -19,7 +19,7 @@ You can read more about the [documentation here](https://www.material-tailwind.c
 **HELPFUL LINKS**
 
 - View [Github Repository](https://github.com/creativetimofficial/nextjs-tailwind-portfolio-page)
-- Check [FAQ Page](https://www.creative-tim.com/faq)
+- Check [FAQ Page](https://www.creative-tim.com/faq) https://www.creative-tim.com/product/next-js-tailwind-portfolio-page#
 
 ## [Demo](https://creative-tim.com/product/nextjs-tailwind-portfolio-page)
 
